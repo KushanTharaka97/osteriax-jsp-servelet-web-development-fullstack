@@ -1,0 +1,12 @@
+SMAP
+adminsignup_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminsignup.jsp
+admin/adminsignup.jsp
+*L
+5,36:44
+41:80,3
+42,39:83
+*E
